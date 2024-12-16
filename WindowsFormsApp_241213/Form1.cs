@@ -22,6 +22,8 @@ namespace WindowsFormsApp_241213
             int a = 1;
 
             a = 2;
+
+   `        string msg = "안녕";
         }
     }
 }
